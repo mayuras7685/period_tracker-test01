@@ -22,6 +22,27 @@ npm install
 npm run deploy
 ```
 
+# Home Page
+
+<img src="SS/home.jpg" alt="home-page"/>
+
+# Bleed 
+
+<img src="SS/bleed.jpg" alt="bleed-page"/>
+
+# Mood
+
+<img src="SS/mood.jpg" alt="mood-page"/>
+
+# Pain
+
+<img src="SS/pain.jpg" alt="pain-page"/>
+
+# Sex
+
+<img src="SS/sex.jpg" alt="sex-page"/>
+
+
 ## Reference
 
 - [material-ui](https://material-ui.com/getting-started)
