@@ -26,19 +26,19 @@ npm run deploy
 
 <img src="SS/home.jpg" alt="home-page"/>
 
-# Bleed 
+# Bleed Page 
 
 <img src="SS/bleed.jpg" alt="bleed-page"/>
 
-# Mood
+# Mood Page
 
 <img src="SS/mood.jpg" alt="mood-page"/>
 
-# Pain
+# Pain Page
 
-<img src="SS/pain.jpg" alt="pain-page"/>
+<img src="SS/pain.jpg" alt="pain-page"/ width="500" height="500">
 
-# Sex
+# Sex Page
 
 <img src="SS/sex.jpg" alt="sex-page"/>
 
