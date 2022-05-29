@@ -1,6 +1,6 @@
 # Mensiis
 
-![Logo]([https://hirenlalani.files.wordpress.com/2022/04/wp-1651342540702.jpg](https://www.canva.com/design/DAFCDT2oSYw/Sj_wQ-8iJ7yHqO4wT5iIKw/edit?utm_content=DAFCDT2oSYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Logo](https://www.canva.com/design/DAFCDT2oSYw/Sj_wQ-8iJ7yHqO4wT5iIKw/edit?utm_content=DAFCDT2oSYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 A multifunctional period tracker that records menstrual cycles, provide medicine reminder and mental condition enlightenment.
 
