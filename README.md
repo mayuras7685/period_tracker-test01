@@ -33,7 +33,11 @@ npm run deploy
     - Home.js
     - Add.js
 
-## Contributor
+
+## Contact
+
+* Mayur Asodara - [linkedIn profile](https://www.linkedin.com/in/mayur-asodara-366067206), email_id - mayurasodara@gmail.com
+
 
 
 
