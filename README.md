@@ -24,15 +24,15 @@ npm run deploy
 
 # Home Page
 
-<img src="SS/home.jpg" alt="home-page"/>
+<img src="SS/home.jpg" alt="home-page" width="800" height="400" />
 
 # Bleed Page 
 
-<img src="SS/bleed.jpg" alt="bleed-page"/>
+<img src="SS/bleed.jpg" alt="bleed-page" width="800" height="400" />
 
 # Mood Page
 
-<img src="SS/mood.jpg" alt="mood-page"/>
+<img src="SS/mood.jpg" alt="mood-page" width="800" height="400" />
 
 # Pain Page
 
@@ -40,7 +40,7 @@ npm run deploy
 
 # Sex Page
 
-<img src="SS/sex.jpg" alt="sex-page"/>
+<img src="SS/sex.jpg" alt="sex-page" width="800" height="400"/>
 
 
 ## Reference
