@@ -1,6 +1,6 @@
 # Mensiis
 
-![Logo]([https://www.canva.com/design/DAFCDT2oSYw/Sj_wQ-8iJ7yHqO4wT5iIKw/edit?utm_content=DAFCDT2oSYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://mayur7685.files.wordpress.com/2022/05/untitled-design.png?resize=438%2C438))
+![Logo]<img src="output images/Lion Tiger and Leopard.jpg" alt="Lion Tiger and Leopard" width="500" height="600"/>
 
 A multifunctional period tracker that records menstrual cycles, provide medicine reminder and mental condition enlightenment.
 
