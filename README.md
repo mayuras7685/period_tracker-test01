@@ -36,7 +36,7 @@ npm run deploy
 
 # Pain Page
 
-<img src="SS/pain.jpg" alt="pain-page" width="500" height="250" />
+<img src="SS/pain.jpg" alt="pain-page" width="600" height="300" />
 
 # Sex Page
 
