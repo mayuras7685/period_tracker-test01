@@ -22,6 +22,19 @@ npm install
 npm run deploy
 ```
 
+# Pages
+<details>
+  <summary>Pages</summary>
+  <ol>
+    <li><a href="# Home Page">Home</a> </li>
+    <li><a href="# Bleed Page">Bleed</a></li>
+    <li><a href="# Mood Page">Mood</a></li>
+    <li><a href="# Pain Page">Pain</a></li>
+    <li><a href="# Sex Page">Sex</a></li>
+   
+  </ol>
+</details>
+
 # Home Page
 
 <img src="SS/home.jpg" alt="home-page" width="800" height="400" />
